@@ -4,6 +4,7 @@
 
 <details open>
 <summary>Table of Contents</summary>
+
 - [Introduction](#introduction)
 - [Animal Studies](#animal-studies)
 - [Fingerprints](#fingerprints)
@@ -17,7 +18,6 @@
 </details>
 
 ---
-
 
 ## Introduction
 
