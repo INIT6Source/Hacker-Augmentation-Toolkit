@@ -11,6 +11,15 @@
 - [Readings](#readings)
 - [Use Cases](#use-cases)
 
+</details>
+
+---
+
+
+## Introduction
+
+Welcome to the Human Augmentation Tookit (HAT)! This repo aims to provide a comprehensive collection of tools and resources for biohacking, human augmentation, microchip implants, implanted magnets, exta sensory perception, body autonomy, trans-rights, prosthetics, etc. 
+
 ## Fingerprints
 [Fingerprint BioSec](https://github.com/ANG13T/fingerprint-biosec) - Fingerprint Pattern Recognition
 
