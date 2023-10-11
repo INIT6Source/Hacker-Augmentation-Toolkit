@@ -1,4 +1,4 @@
-# Human-Augmentation-Toolkit
+# Hacker-Augmentation-Toolkit (HAuT)
 
 <a name="top"></a>
 
