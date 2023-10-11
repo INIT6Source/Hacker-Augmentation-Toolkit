@@ -28,7 +28,7 @@
 
 [Common Cyborg](https://granta.com/common-cyborg/) - "I’m nervous at night when I take off my leg."
 
-[Heavenly Bodies](https://afutureworththinkingabout.com/?p=5396\) - Why it matters that Cyborgs have always been about Disability, Mental Health, and Marginalization
+[Heavenly Bodies](https://afutureworththinkingabout.com/?p=5396) - Why it matters that Cyborgs have always been about Disability, Mental Health, and Marginalization
 
 [How I became a Cyborg](https://www-marketwatch-com.cdn.ampproject.org/v/s/www.marketwatch.com/amp/story/i-joined-an-underground-medical-movement-but-had-to-become-a-cyborg-to-do-it-2016-11-15?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#aoh=15939749175777&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.marketwatch.com%2Fstory%2Fi-joined-an-underground-medical-movement-but-had-to-become-a-cyborg-to-do-it-2016-11-15) - Use of tech implants to augment biology
 
